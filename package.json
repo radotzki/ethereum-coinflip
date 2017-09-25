@@ -1,0 +1,16 @@
+{
+  "name": "coin-flip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "testrpc": "testrpc -m \"item trade adjust portion toss clean guilt current tuition stem size sad\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "truffle-contract": "^3.0.0"
+  }
+}
